@@ -4,7 +4,7 @@
 
 ### Data Analyst | SQL & Python Developer | Automation-Driven | Analytics Focus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Building+Analytics+Pipelines+That+Drive+Decisions;Data+Analytics+%7C+Python+%7C+SQL;Automating+Insights+with+Intelligent+Workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Building+Analytics+Pipelines;Data+Analytics+%7C+Python+%7C+SQL;Automating+Insights+with+Intelligent+Workflows" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-srivastava-2b6904262/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/Ayush-srivastava504)

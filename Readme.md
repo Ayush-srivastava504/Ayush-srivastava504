@@ -2,9 +2,9 @@
 
 # 👋 Ayush Srivastava
 
-### Data & Analytics Engineer | Python Developer | SQL Specialist | Data Pipeline Architect
+### Data Analyst | SQL & Python Developer | Automation-Driven | Analytics Focus
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+Data+Pipelines+That+Scale;Automating+Analytics+Workflows;Data+Engineering+%7C+Python+%7C+SQL;Turning+Complex+Data+into+Structured+Insights" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insights;Building+Analytics+Pipelines+That+Drive+Decisions;Data+Analytics+%7C+Python+%7C+SQL;Automating+Insights+with+Intelligent+Workflows" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-srivastava-2b6904262/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/Ayush-srivastava504)
@@ -18,18 +18,20 @@
 
 ## 🎯 About Me
 
-I'm a **Data & Analytics Engineer** passionate about building scalable data pipelines and transforming raw datasets into structured, actionable insights. I specialize in end-to-end data workflows, from automated data collection and storage optimization to interactive analytics and visualization.
+I'm a **Data Analyst** passionate about transforming raw data into strategic insights that drive measurable business impact. I specialize in uncovering hidden patterns, building automated analytics workflows, and creating data-driven narratives that stakeholders understand and act upon.
+
+**Currently seeking Data Analyst Internship opportunities where I can apply SQL, Python, and analytics automation skills to solve real-world problems.**
 
 **My Approach:**
-- 🔄 **Automation-First Mindset** — Eliminating manual processes through intelligent workflows
-- 🏗️ **Pipeline Architecture** — Designing robust, scalable data solutions that grow with demand
-- 📊 **Data-Driven Analytics** — Converting structured data into clear, actionable intelligence
-- ⚡ **Performance Optimization** — Writing efficient queries and clean code that scales
+- 📊 **Insights-First Mindset** — I don't just collect data; I extract stories that matter
+- 🔍 **Analytical Problem-Solving** — Breaking down complex questions into data-driven answers
+- ⚙️ **Automation for Scale** — Building intelligent workflows that deliver insights automatically
+- 📈 **Storytelling with Data** — Translating numbers into clear, actionable recommendations
 
 **Core Competencies:**
-- Python Data Engineering (Pandas, NumPy) | SQL & Database Design | ETL Pipeline Development
-- Data Automation & Workflow Orchestration | Analytics & Insights Generation | Cloud Data Platforms
-- Dashboard Development & Visualization | Real-time Data Processing | Data Quality & Governance
+- Exploratory Data Analysis & Insights Generation | Data Cleaning & Transformation | Strong SQL & Python for Analytics
+- Automated Reporting Workflows | Dashboard & Visualization Development | KPI Tracking & Performance Metrics
+- Trend Analysis & Forecasting | Business Intelligence | Data-Driven Decision Making
 
 ---
 
@@ -39,40 +41,40 @@ I'm a **Data & Analytics Engineer** passionate about building scalable data pipe
 <tr>
 <td width="50%" valign="top">
 
-### 🔧 Data Engineering
-- Designed end-to-end **automated data collection pipelines** using Python
-- Architected **ETL workflows** with scheduled automation (GitHub Actions)
-- Optimized **database design** for efficient data retrieval and storage
-- Built robust data **ingestion systems** handling real-world datasets
+### 📊 Data Analytics & Insights
+- Conducted **exploratory data analysis** uncovering hidden patterns in complex datasets
+- Performed **data cleaning & transformation** to prepare datasets for analysis
+- Developed **analytical frameworks** for measuring performance and tracking KPIs
+- Built **custom metrics** aligned with business objectives and tracking needs
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Analytics & Insights
-- Performed **exploratory data analysis** to uncover hidden patterns
-- Developed **trend analysis frameworks** for time-series data
-- Created **actionable insights** from complex, multi-dimensional datasets
-- Engineered **custom metrics** aligned with business intelligence needs
+### 🔄 Automated Reporting Workflows
+- Designed **automated reporting workflows** that deliver insights on schedule
+- Built **KPI tracking dashboards** enabling teams to monitor performance independently
+- Engineered **data pipelines** that eliminate manual reporting and free up time
+- Created **dashboard solutions** for real-time monitoring of business metrics
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💡 Technical Architecture
-- Advanced **Python** for data manipulation and automation
-- Optimized **SQL** for complex queries and performance tuning
-- **DuckDB** expertise for lightweight, analytical workflows
-- **Streamlit** for rapid dashboard and visualization development
+### 💡 Technical Skills
+- **Strong SQL** for complex queries and data exploration
+- **Python** (Pandas, NumPy) for data manipulation and statistical analysis
+- **Streamlit** for rapid dashboard and analytics visualization development
+- **DuckDB** for lightweight, efficient analytical queries
 
 </td>
 <td width="50%" valign="top">
 
-### 🚀 Automation & DevOps
-- Implemented **CI/CD workflows** with GitHub Actions
-- Orchestrated **scheduled data jobs** for continuous data pipelines
-- Built **infrastructure as code** for repeatable, reliable processes
-- Deployed **production-grade automation** requiring minimal maintenance
+### 📈 Data-Driven Decision Making
+- Translated business questions into **actionable data insights**
+- Performed **comparative analysis** across product lines, cohorts, and segments
+- Conducted **root cause analysis** identifying drivers of business performance
+- Delivered clear **insights and recommendations** with supporting data visualizations
 
 </td>
 </tr>
@@ -129,11 +131,11 @@ I'm a **Data & Analytics Engineer** passionate about building scalable data pipe
 
 <div align="center">
 
-| Project | Impact | Tech Stack |
-|---------|--------|------------|
-| 📦 **Amazon Price Tracker – Analytics Pipeline** | Automated daily data collection, storage, and trend analysis for e-commerce price intelligence | Python, DuckDB, GitHub Actions, Streamlit |
-| 📊 **End-to-End ETL Automation** | Built production-grade data pipeline with scheduled ingestion, transformation, and dashboard generation | Python (Pandas), SQL, Automation |
-| 📈 **Real-Time Analytics Dashboard** | Designed interactive Streamlit dashboard with live data updates and performance metrics | Streamlit, Plotly, DuckDB |
+| Project | What I Delivered | Tech Stack |
+|---------|------------------|------------|
+| 📦 **Amazon Price Tracker Analytics** | Automated data collection, transformation, and trend analysis revealing price patterns and market insights | Python, DuckDB, Streamlit |
+| 📊 **KPI Tracking Dashboard** | Built interactive dashboard for monitoring business metrics, identifying trends, and tracking performance | Python (Pandas), SQL, Streamlit |
+| 📈 **Automated Reporting Pipeline** | Designed workflow to clean, transform, and analyze data, generating automated daily insight reports | Python, DuckDB, GitHub Actions |
 
 </div>
 
@@ -141,28 +143,28 @@ I'm a **Data & Analytics Engineer** passionate about building scalable data pipe
 
 ## 🎓 Continuous Learning
 
-- 📚 Deepening expertise in **distributed data systems** and **cloud data warehouses**
-- 🧠 Exploring **advanced SQL optimization** and query performance tuning
-- 🚀 Building toward **data engineering** and **ETL architecture** specialization
-- ☁️ Hands-on experience with **cloud platforms** and **data infrastructure**
+- 📚 Strengthening **exploratory data analysis** and **data visualization** skills
+- 🧠 Deepening knowledge in **data cleaning & transformation** best practices
+- 📊 Building expertise in **dashboard design** and **KPI tracking systems**
+- 🚀 Mastering **automation workflows** to scale insights across organizations
 
 ---
 
 ## 🤝 Let's Collaborate
 
-### 💼 Currently Seeking Opportunities
+### 💼 Currently Seeking
 
-I'm actively looking for roles in:
-- **Data Analyst** positions with engineering focus
-- **Data Engineering** internships and entry-level roles
-- **Analytics Engineer** opportunities
-- **Business Intelligence Developer** positions with Python/SQL emphasis
+I'm actively looking for:
+- **Data Analyst Internship** positions
+- **Analytics Intern** roles with SQL & Python focus
+- **Business Analyst** internship opportunities
+- **Data Analytics** entry-level positions
 
 ### Open To:
-- 💼 **Full-time & internship opportunities** in data analytics and engineering
+- 💼 **Internship & entry-level opportunities** in data analytics
 - 🎓 **Mentorship** from experienced data professionals
-- 📊 **Freelance analytics & automation projects**
-- 🤖 **Open-source contributions** in data tools and libraries
+- 📊 **Project collaboration** on analytics challenges
+- 🤖 **Learning contributions** to open-source analytics projects
 
 ---
 
@@ -176,9 +178,9 @@ I'm actively looking for roles in:
 
 ---
 
-### ⚡ *"Data engineering is about building systems that transform chaos into clarity."*
+### ⚡ *"Data doesn't lie, but it needs someone to tell its story. That's where analytics begins."*
 
-**Let's build data pipelines that matter.** 🚀
+**Let's turn your data into insights that drive decisions.** 🚀
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 

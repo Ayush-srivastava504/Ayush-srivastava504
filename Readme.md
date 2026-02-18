@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Ayush Srivastava
+# Ayush Srivastava
 
 ### Data Analyst | SQL & Python Developer | Automation-Driven | Analytics Focus
 
@@ -16,17 +16,17 @@
 
 ---
 
-## 🎯 About Me
+## About Me
 
 I'm a **Data Analyst** passionate about transforming raw data into strategic insights that drive measurable business impact. I specialize in uncovering hidden patterns, building automated analytics workflows, and creating data-driven narratives that stakeholders understand and act upon.
 
 **Currently seeking Data Analyst Internship opportunities where I can apply SQL, Python, and analytics automation skills to solve real-world problems.**
 
 **My Approach:**
-- 📊 **Insights-First Mindset** — I don't just collect data; I extract stories that matter
-- 🔍 **Analytical Problem-Solving** — Breaking down complex questions into data-driven answers
-- ⚙️ **Automation for Scale** — Building intelligent workflows that deliver insights automatically
-- 📈 **Storytelling with Data** — Translating numbers into clear, actionable recommendations
+- Insights-First Mindset — I don't just collect data; I extract stories that matter
+- Analytical Problem-Solving — Breaking down complex questions into data-driven answers
+- Automation for Scale — Building intelligent workflows that deliver insights automatically
+- Storytelling with Data — Translating numbers into clear, actionable recommendations
 
 **Core Competencies:**
 - Exploratory Data Analysis & Insights Generation | Data Cleaning & Transformation | Strong SQL & Python for Analytics
@@ -35,13 +35,13 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 ---
 
-## 💼 What I Do Best
+## What I Do Best
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Data Analytics & Insights
+### Data Analytics & Insights
 - Conducted **exploratory data analysis** uncovering hidden patterns in complex datasets
 - Performed **data cleaning & transformation** to prepare datasets for analysis
 - Developed **analytical frameworks** for measuring performance and tracking KPIs
@@ -50,7 +50,7 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 </td>
 <td width="50%" valign="top">
 
-### 🔄 Automated Reporting Workflows
+### Automated Reporting Workflows
 - Designed **automated reporting workflows** that deliver insights on schedule
 - Built **KPI tracking dashboards** enabling teams to monitor performance independently
 - Engineered **data pipelines** that eliminate manual reporting and free up time
@@ -61,7 +61,7 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 <tr>
 <td width="50%" valign="top">
 
-### 💡 Technical Skills
+### Technical Skills
 - **Strong SQL** for complex queries and data exploration
 - **Python** (Pandas, NumPy) for data manipulation and statistical analysis
 - **Streamlit** for rapid dashboard and analytics visualization development
@@ -70,7 +70,7 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 </td>
 <td width="50%" valign="top">
 
-### 📈 Data-Driven Decision Making
+### Data-Driven Decision Making
 - Translated business questions into **actionable data insights**
 - Performed **comparative analysis** across product lines, cohorts, and segments
 - Conducted **root cause analysis** identifying drivers of business performance
@@ -82,7 +82,7 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 ---
 
-## 🛠️ Technical Arsenal
+## Technical Arsenal
 
 <div align="center">
 
@@ -112,7 +112,7 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 <div align="center">
   
@@ -127,32 +127,32 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 <div align="center">
 
 | Project | What I Delivered | Tech Stack |
 |---------|------------------|------------|
-| 📦 **Amazon Price Tracker Analytics** | Automated data collection, transformation, and trend analysis revealing price patterns and market insights | Python, DuckDB, Streamlit |
-| 📊 **KPI Tracking Dashboard** | Built interactive dashboard for monitoring business metrics, identifying trends, and tracking performance | Python (Pandas), SQL, Streamlit |
-| 📈 **Automated Reporting Pipeline** | Designed workflow to clean, transform, and analyze data, generating automated daily insight reports | Python, DuckDB, GitHub Actions |
+| **Amazon Price Tracker Analytics** | Automated data collection, transformation, and trend analysis revealing price patterns and market insights | Python, DuckDB, Streamlit |
+| **KPI Tracking Dashboard** | Built interactive dashboard for monitoring business metrics, identifying trends, and tracking performance | Python (Pandas), SQL, Streamlit |
+| **Automated Reporting Pipeline** | Designed workflow to clean, transform, and analyze data, generating automated daily insight reports | Python, DuckDB, GitHub Actions |
 
 </div>
 
 ---
 
-## 🎓 Continuous Learning
+## Continuous Learning
 
-- 📚 Strengthening **exploratory data analysis** and **data visualization** skills
-- 🧠 Deepening knowledge in **data cleaning & transformation** best practices
-- 📊 Building expertise in **dashboard design** and **KPI tracking systems**
-- 🚀 Mastering **automation workflows** to scale insights across organizations
+- Strengthening **exploratory data analysis** and **data visualization** skills
+- Deepening knowledge in **data cleaning & transformation** best practices
+- Building expertise in **dashboard design** and **KPI tracking systems**
+- Mastering **automation workflows** to scale insights across organizations
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
-### 💼 Currently Seeking
+### Currently Seeking
 
 I'm actively looking for:
 - **Data Analyst Internship** positions
@@ -161,16 +161,16 @@ I'm actively looking for:
 - **Data Analytics** entry-level positions
 
 ### Open To:
-- 💼 **Internship & entry-level opportunities** in data analytics
-- 🎓 **Mentorship** from experienced data professionals
-- 📊 **Project collaboration** on analytics challenges
-- 🤖 **Learning contributions** to open-source analytics projects
+- **Internship & entry-level opportunities** in data analytics
+- **Mentorship** from experienced data professionals
+- **Project collaboration** on analytics challenges
+- **Learning contributions** to open-source analytics projects
 
 ---
 
 <div align="center">
 
-### 📬 Get In Touch
+### Get In Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-srivastava-2b6904262/)
 [![GitHub](https://img.shields.io/badge/GitHub-See_My_Work-333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-srivastava504)
@@ -178,9 +178,9 @@ I'm actively looking for:
 
 ---
 
-### ⚡ *"Data doesn't lie, but it needs someone to tell its story. That's where analytics begins."*
+"Data doesn't lie, but it needs someone to tell its story. That's where analytics begins."
 
-**Let's turn your data into insights that drive decisions.** 🚀
+**Let's turn your data into insights that drive decisions.**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 

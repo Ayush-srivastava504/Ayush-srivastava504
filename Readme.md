@@ -9,6 +9,16 @@
 
 ---
 
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-srivastava504&theme=tokyonight&hide_border=true)](https://github.com/Ayush-srivastava504)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-srivastava504&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ayush-srivastava504)
+
+</div>
+
+---
+
 ## About Me
 
 I am a Data Analyst focused on transforming raw data into strategic insights that drive measurable business impact. My work centers on uncovering hidden patterns, building automated analytics workflows, and creating data-driven narratives that stakeholders can understand and act upon.
@@ -17,7 +27,11 @@ I am a Data Analyst focused on transforming raw data into strategic insights tha
 
 **Core Competencies**
 
-Exploratory Data Analysis & Insights Generation &nbsp;|&nbsp; Data Cleaning & Transformation &nbsp;|&nbsp; SQL & Python for Analytics &nbsp;|&nbsp; Automated Reporting Workflows &nbsp;|&nbsp; Dashboard & Visualization Development &nbsp;|&nbsp; KPI Tracking & Performance Metrics &nbsp;|&nbsp; Trend Analysis & Forecasting &nbsp;|&nbsp; Business Intelligence
+| | | |
+|---|---|---|
+| Exploratory Data Analysis | Data Cleaning & Transformation | SQL & Python for Analytics |
+| Automated Reporting Workflows | Dashboard & Visualization Development | KPI Tracking & Performance Metrics |
+| Trend Analysis & Forecasting | Business Intelligence | Data-Driven Decision Making |
 
 ---
 
@@ -117,5 +131,7 @@ Currently deepening expertise in exploratory data analysis, advanced data visual
 [![GitHub](https://img.shields.io/badge/GitHub-View_Work-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ayush-srivastava504)
 
 ---
+
+*"Data doesn't lie — but it needs someone to tell its story. That's where analytics begins."*
 
 *"Data doesn't lie — but it needs someone to tell its story. That's where analytics begins."*

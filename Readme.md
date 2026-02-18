@@ -132,6 +132,8 @@ Currently deepening expertise in exploratory data analysis, advanced data visual
 
 ---
 
-*"Data doesn't lie — but it needs someone to tell its story. That's where analytics begins."*
+*"Data holds the truth — analytics turns it into decisions"*
 
-*"Data doesn't lie — but it needs someone to tell its story. That's where analytics begins."*
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
+
+</div>

@@ -9,16 +9,6 @@
 
 ---
 
-<div align="center">
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Ayush-srivastava504&theme=tokyonight&hide_border=true)](https://github.com/Ayush-srivastava504)
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ayush-srivastava504&theme=tokyo-night&hide_border=true&area=true)](https://github.com/Ayush-srivastava504)
-
-</div>
-
----
-
 ## About Me
 
 I am a Data Analyst focused on transforming raw data into strategic insights that drive measurable business impact. My work centers on uncovering hidden patterns, building automated analytics workflows, and creating data-driven narratives that stakeholders can understand and act upon.

@@ -1,16 +1,14 @@
 <div align="center">
 
-#  Ayush Srivastava
+# Ayush Srivastava
 
-### Data Analyst | SQL & Python Developer | Automation-Driven | Analytics Focus
+### AI Engineer | Machine Learning | NLP | Python Backend
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Transforming+Data+into+Actionable+Insight;Building+Analytics+Pipelines;Data+Analytics+%7C+Python+%7C+SQL;Automating+Insights+with+Intelligent+Workflows" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Building+AI+Applications;LLMs+%7C+NLP+%7C+Semantic+Search;Python+%7C+FastAPI+%7C+AI+Systems;Developing+Intelligent+Software" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayush-srivastava-2b6904262/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github)](https://github.com/Ayush-srivastava504)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushwww4@gmail.com)
-
-![Profile Views](https://komarev.com/ghpvc/?username=Ayush-srivastava504&color=00D9FF&style=flat-square)
 
 </div>
 
@@ -18,21 +16,30 @@
 
 ## About Me
 
-I'm a **Data Analyst** passionate about transforming raw data into strategic insights that drive measurable business impact. I specialize in uncovering hidden patterns, building automated analytics workflows, and creating data-driven narratives that stakeholders understand and act upon.
+I’m an **AI Engineer and Software Developer** passionate about building intelligent systems using **Machine Learning, NLP, and Python-based backend development**.
 
-**Currently seeking Data Analyst Internship opportunities where I can apply SQL, Python, and analytics automation skills to solve real-world problems.**
+My work focuses on developing **AI-powered applications**, including **semantic search engines, AI assistants, and data-driven automation systems** that transform complex data into practical solutions.
 
-## **My Approach:**
-- **Insights-First Mindset** — I don't just collect data; I extract stories that matter
-- **Analytical Problem-Solving** — Breaking down complex questions into data-driven answers
-- **Automation for Scale** — Building intelligent workflows that deliver insights automatically
-- **Storytelling with Data** — Translating numbers into clear, actionable recommendations
+Currently exploring **LLMs, Retrieval-Augmented Generation (RAG), vector search, and scalable AI systems**.
 
-## **Core Competencies:**
-- Exploratory Data Analysis & Insights Generation | Data Cleaning & Transformation | Strong SQL & Python for Analytics
-- Automated Reporting Workflows | Dashboard & Visualization Development | KPI Tracking & Performance Metrics
-- Trend Analysis & Forecasting | Business Intelligence | Data-Driven Decision Making
+Currently seeking **AI Engineer / ML Engineer Internship opportunities**.
 
+## My Approach
+
+- **AI First Development** — Building intelligent applications powered by machine learning and NLP
+- **Problem Driven Engineering** — Turning complex problems into scalable AI systems
+- **Automation with Intelligence** — Using AI to automate information discovery and decision making
+- **Production Mindset** — Designing AI systems with scalable architectures and APIs
+
+## Core Competencies
+
+- Machine Learning & Natural Language Processing (NLP)
+- Semantic Search & Vector Embeddings
+- AI Application Development
+- Python Backend Development (FastAPI)
+- API Development & System Integration
+- Data Pipelines & AI Data Processing
+- Information Retrieval Systems
 ---
 
 ## What I Do Best
@@ -41,40 +48,40 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 <tr>
 <td width="50%" valign="top">
 
-### Data Analytics & Insights
-- Conducted **exploratory data analysis** uncovering hidden patterns in complex datasets
-- Performed **data cleaning & transformation** to prepare datasets for analysis
-- Developed **analytical frameworks** for measuring performance and tracking KPIs
-- Built **custom metrics** aligned with business objectives and tracking needs
+### AI Application Development
+- Built **AI-powered applications** including semantic search systems and developer AI assistants
+- Implemented **NLP pipelines and embedding models** for intelligent information retrieval
+- Designed **AI-driven workflows** to automate data processing and knowledge discovery
+- Developed systems enabling **context-aware search and natural language queries**
 
 </td>
 <td width="50%" valign="top">
 
-### Automated Reporting Workflows
-- Designed **automated reporting workflows** that deliver insights on schedule
-- Built **KPI tracking dashboards** enabling teams to monitor performance independently
-- Engineered **data pipelines** that eliminate manual reporting and free up time
-- Created **dashboard solutions** for real-time monitoring of business metrics
+### Backend & API Engineering
+- Developed **Python-based backend services using FastAPI**
+- Built **REST APIs for AI applications** enabling scalable query processing
+- Implemented **authentication and microservice-ready architectures**
+- Designed backend systems supporting **AI model integration**
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-###  Technical Skills
-- **Strong SQL** for complex queries and data exploration
-- **Python** (Pandas, NumPy) for data manipulation and statistical analysis
-- **Streamlit** for rapid dashboard and analytics visualization development
-- **DuckDB** for lightweight, efficient analytical queries
+### AI & Machine Learning Stack
+- **Python** for machine learning and AI system development
+- **NLP & Semantic Search** using embeddings and transformer models
+- **Data pipelines** for preparing and processing AI datasets
+- **Vector similarity search** for intelligent information retrieval
 
 </td>
 <td width="50%" valign="top">
 
-### Data-Driven Decision Making
-- Translated business questions into **actionable data insights**
-- Performed **comparative analysis** across product lines, cohorts, and segments
-- Conducted **root cause analysis** identifying drivers of business performance
-- Delivered clear **insights and recommendations** with supporting data visualizations
+### Intelligent Systems Engineering
+- Designed **AI systems that transform large datasets into actionable knowledge**
+- Built **semantic search engines and AI assistants**
+- Optimized **search relevance using embedding-based retrieval**
+- Developed scalable systems integrating **databases, APIs, and AI models**
 
 </td>
 </tr>
@@ -82,40 +89,26 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 ---
 
-## 
----
+## Technical Stack
 
-## Technical Arsenal
+### AI & Machine Learning
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
 
-### Languages & Databases
+### Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=for-the-badge&logo=duckdb&logoColor=black)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 
-### Visualization & BI Tools
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![DAX](https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+### AI Infrastructure
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FEC514?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
-### Data Analysis & Libraries
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
-### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+### Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
 
 ---
 
@@ -138,41 +131,31 @@ I'm a **Data Analyst** passionate about transforming raw data into strategic ins
 
 <div align="center">
 
-| Project | What I Delivered | Tech Stack |
-|---------|------------------|------------|
-| **Amazon Price Tracker Analytics** | Automated data collection, transformation, and trend analysis revealing price patterns and market insights | Python, DuckDB, Streamlit |
-| **KPI Tracking Dashboard** | Built interactive dashboard for monitoring business metrics, identifying trends, and tracking performance | Python (Pandas), SQL, Streamlit |
-| **Automated Reporting Pipeline** | Designed workflow to clean, transform, and analyze data, generating automated daily insight reports | Python, DuckDB, GitHub Actions |
+| Project | Description | Tech Stack |
+|-------|-------------|------------|
+| **AI Semantic Search Engine** | Built an AI search engine using NLP embeddings and vector similarity for context-aware article retrieval | Python, FastAPI, Elasticsearch |
+| **Developer Docs AI Assistant** | AI-powered documentation assistant enabling natural language search across technical docs | Python, NLP, FastAPI |
+| **AI Price Tracking System** | Automated system for collecting and analyzing product pricing data using web scraping and data pipelines | Python, Data Pipelines |
 
 </div>
 
 ---
 
-##  Continuous Learning
+## Continuous Learning
 
-- Strengthening **exploratory data analysis** and **data visualization** skills
-- Deepening knowledge in **data cleaning & transformation** best practices
-- Building expertise in **dashboard design** and **KPI tracking systems**
-- Mastering **automation workflows** to scale insights across organizations
+- Exploring **LLMs and Retrieval-Augmented Generation (RAG)**
+- Studying **advanced machine learning and NLP systems**
+- Practicing **Data Structures & Algorithms (LeetCode)**
+- Contributing to **open-source AI and data engineering tools**
 
 ---
 
-##  Let's Collaborate
+## Currently Seeking
 
-###  Currently Seeking
-
-I'm actively looking for:
-- **Data Analyst Internship** positions
-- **Analytics Intern** roles with SQL & Python focus
-- **Business Analyst** internship opportunities
-- **Data Analytics** entry-level positions
-
-### Open To:
-- **Internship & entry-level opportunities** in data analytics
-- **Mentorship** from experienced data professionals
-- **Project collaboration** on analytics challenges
-- **Learning contributions** to open-source analytics projects
-
+- AI Engineer Internships
+- Machine Learning Engineer Internships
+- Generative AI / NLP Intern Roles
+- AI Software Development Opportunities
 ---
 
 <div align="center">

@@ -89,26 +89,43 @@ Currently seeking **AI Engineer / ML Engineer Internship opportunities**.
 
 ---
 
-## Technical Stack
-
 ### AI & Machine Learning
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-blue?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep_Learning-purple?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-orange?style=for-the-badge)
-![LLM](https://img.shields.io/badge/LLM-purple?style=for-the-badge)
+![LLM](https://img.shields.io/badge/LLM-darkviolet?style=for-the-badge)
+![Generative AI](https://img.shields.io/badge/Generative_AI-red?style=for-the-badge)
+![Vector Embeddings](https://img.shields.io/badge/Vector_Embeddings-green?style=for-the-badge)
+
+### LLM & AI Frameworks
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LlamaIndex](https://img.shields.io/badge/LlamaIndex-blue?style=for-the-badge)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface)
+![OpenAI API](https://img.shields.io/badge/OpenAI_API-grey?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-Retrieval_Augmented_Generation-blue?style=for-the-badge)
 
 ### Programming & Backend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
 ![REST API](https://img.shields.io/badge/REST_API-grey?style=for-the-badge)
 
 ### AI Infrastructure
 ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-FEC514?style=for-the-badge)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge)
+![Vector Database](https://img.shields.io/badge/Vector_DB-purple?style=for-the-badge)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge)
 
 ### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333?style=for-the-badge&logo=github)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![CI/CD](https://img.shields.io/badge/CI_CD-blue?style=for-the-badge)
 
 ---
 
@@ -168,7 +185,7 @@ Currently seeking **AI Engineer / ML Engineer Internship opportunities**.
 
 ---
 
-###  *"Data holds the truth — analytics turns it into decision"*
+###  *"Data is the foundation — AI turns it into intelligent systems"*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%"/>
 

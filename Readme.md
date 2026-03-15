@@ -30,16 +30,7 @@ Currently seeking **AI Engineer / ML Engineer Internship opportunities**.
 - **Problem Driven Engineering** — Turning complex problems into scalable AI systems
 - **Automation with Intelligence** — Using AI to automate information discovery and decision making
 - **Production Mindset** — Designing AI systems with scalable architectures and APIs
-
-## Core Competencies
-
-- Machine Learning & Natural Language Processing (NLP)
-- Semantic Search & Vector Embeddings
-- AI Application Development
-- Python Backend Development (FastAPI)
-- API Development & System Integration
-- Data Pipelines & AI Data Processing
-- Information Retrieval Systems
+  
 ---
 
 ## What I Do Best
